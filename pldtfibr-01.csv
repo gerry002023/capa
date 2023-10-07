@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+84:06:FA:DD:52:10, 2023-10-08 04:14:32, 2023-10-08 04:14:46,  1, 270, WPA2 WPA, CCMP, PSK, -50,       52,        4,   0.  0.  0.  0,  17, PLDTHOMEFIBRd5210, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+D0:B4:5D:B5:17:F0, 2023-10-08 04:14:39, 2023-10-08 04:14:39, -71,        1, 84:06:FA:DD:52:10,
+EA:B9:DC:60:51:D2, 2023-10-08 04:14:44, 2023-10-08 04:14:44, -62,        1, 84:06:FA:DD:52:10,
+
